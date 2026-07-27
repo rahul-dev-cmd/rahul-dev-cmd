@@ -76,18 +76,7 @@
 ## GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-dev-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-dev-cmd&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-dev-cmd&theme=tokyonight"/>
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-dev-cmd&theme=onestar&no-frame=true"/>
+<img src="https://komarev.com/ghpvc/?username=rahul-dev-cmd&label=PROFILE+VIEWS&color=00F7FF&style=flat" />
 </p>
 
 <p align="center">
