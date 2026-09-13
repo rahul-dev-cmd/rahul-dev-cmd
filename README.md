@@ -19,7 +19,23 @@
 
 ## Tech Stack
 
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) [![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) [![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) [![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React / React Native")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) [![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) [![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) [![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg "FastAPI")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) [![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) [![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) [![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg "Firestore")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg) [![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg "Redis")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) [![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) [![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg "Kubernetes")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) [![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg "Tailwind CSS")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) [![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 > Also working with: LangGraph, Groq API (Llama 3.3-70b-versatile), Gemini API, Qdrant, SQLAlchemy, XGBoost, Socket.io, Streamlit — deployed on Vercel & Render.
 
 ## Featured Projects
